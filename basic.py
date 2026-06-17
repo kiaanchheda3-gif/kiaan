@@ -1,0 +1,10 @@
+name = input("Enter your name: ")
+age = input("Enter your age: ")
+school = input("Enter your school: ")
+hobby = input("Enter your hobby: ")
+
+print("MY PORTFOLIO")
+print("Name:", name)
+print("Age:", age)
+print("School:", school)
+print("Hobby:", hobby)
