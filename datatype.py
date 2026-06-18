@@ -1,0 +1,17 @@
+n1=20
+n2=20.30
+n3="Hello"
+n4=True
+print(n1)
+print(type(n1))
+print()
+print(n2)
+print(type(n2))
+print()
+print(n3)
+print(type(n3))
+print()
+print(n4)
+print(type(n4))
+print()
+print(type(type))
